@@ -1,0 +1,6 @@
+﻿{
+    "HttpClient": {
+        "BaseUrl": "https://gorest.co.in/public/v2/",
+        "Token": ""
+    }
+}
